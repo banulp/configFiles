@@ -10,12 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0f833-6fe6-4538-947a-a4427827b790" name="Default Changelist" comment="config server git test">
-      <change afterPath="$PROJECT_DIR$/a-bootiful-client-live.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-bootiful-client-local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-bootiful-client-rc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-bootiful-client-sb.properties" afterDir="false" />
+    <list default="true" id="28f0f833-6fe6-4538-947a-a4427827b790" name="Default Changelist" comment="add profiles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-bootiful-client-live.properties" beforeDir="false" afterPath="$PROJECT_DIR$/a-bootiful-client-live.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-bootiful-client-local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/a-bootiful-client-local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-bootiful-client-rc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/a-bootiful-client-rc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-bootiful-client-sb.properties" beforeDir="false" afterPath="$PROJECT_DIR$/a-bootiful-client-sb.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <workItem from="1595811009872" duration="2584000" />
       <workItem from="1595837061049" duration="9000" />
       <workItem from="1595837081377" duration="677000" />
-      <workItem from="1601337696208" duration="3835000" />
+      <workItem from="1601337696208" duration="5128000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1595811180474</created>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601337899509</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add profiles">
+      <created>1601358677617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601358677617</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,12 +144,21 @@
     <MESSAGE value="add banulp" />
     <MESSAGE value="iloveyou" />
     <MESSAGE value="config server git test" />
-    <option name="LAST_COMMIT_MESSAGE" value="config server git test" />
+    <MESSAGE value="add profiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add profiles" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1040" y="50" key="#Project_Structure" timestamp="1595811016398">
       <screen x="-1920" y="-44" width="1920" height="1040" />
     </state>
     <state x="-1040" y="50" key="#Project_Structure/0.0.1920.1040/-1920.-44.1920.1040@-1920.-44.1920.1040" timestamp="1595811016398" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601358706518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601358706518" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601358682439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601358682439" />
   </component>
 </project>
