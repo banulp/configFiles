@@ -10,15 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f0f833-6fe6-4538-947a-a4427827b790" name="Default Changelist" comment="iloveyou">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/config-files.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b-bootiful-client.properties" afterDir="false" />
+    <list default="true" id="28f0f833-6fe6-4538-947a-a4427827b790" name="Default Changelist" comment="config server git test">
+      <change afterPath="$PROJECT_DIR$/a-bootiful-client-live.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-bootiful-client-local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-bootiful-client-rc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a-bootiful-client-sb.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-bootiful-client.properties" beforeDir="false" afterPath="$PROJECT_DIR$/a-bootiful-client.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
       <workItem from="1595811009872" duration="2584000" />
       <workItem from="1595837061049" duration="9000" />
       <workItem from="1595837081377" duration="677000" />
-      <workItem from="1601337696208" duration="188000" />
+      <workItem from="1601337696208" duration="3835000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1595811180474</created>
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595837335901</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="config server git test">
+      <created>1601337899509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601337899509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +136,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="add banulp" />
     <MESSAGE value="iloveyou" />
-    <option name="LAST_COMMIT_MESSAGE" value="iloveyou" />
+    <MESSAGE value="config server git test" />
+    <option name="LAST_COMMIT_MESSAGE" value="config server git test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1040" y="50" key="#Project_Structure" timestamp="1595811016398">
